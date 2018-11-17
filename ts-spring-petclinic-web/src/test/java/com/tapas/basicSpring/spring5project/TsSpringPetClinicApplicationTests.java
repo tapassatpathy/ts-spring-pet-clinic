@@ -1,4 +1,4 @@
-package ts.spring.petclinic.tsspringpetclinic;
+package com.tapas.basicSpring.spring5project;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -9,8 +9,8 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class TsSpringPetClinicApplicationTests {
 
-	@Test
-	public void contextLoads() {
-	}
+    @Test
+    public void contextLoads() {
+    }
 
 }

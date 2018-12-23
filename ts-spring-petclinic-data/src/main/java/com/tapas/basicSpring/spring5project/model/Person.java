@@ -1,6 +1,6 @@
-package model;
+package com.tapas.basicSpring.spring5project.model;
 
-public class Person {
+public class Person extends BaseEntity{
 
     private String firstName;
     private String lastName;
